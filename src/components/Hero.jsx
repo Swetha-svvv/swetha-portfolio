@@ -103,7 +103,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="/Swetha_Resume.pdf"
+              href="/Hashira_resume.pdf"
               download
               className="
                 px-8 py-3
